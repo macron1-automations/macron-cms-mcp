@@ -1,4 +1,4 @@
-# Macron-CMS MCP
+# MacronCMS MCP
 
 [![npm version](https://img.shields.io/npm/v/macron-cms-mcp.svg)](https://www.npmjs.com/package/macron-cms-mcp)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
