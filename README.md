@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/logo.jpg" alt="MacronCMS MCP Logo" width="600" />
+</p>
+
 # MacronCMS MCP
 
 [![npm version](https://img.shields.io/npm/v/macron-cms-mcp.svg)](https://www.npmjs.com/package/macron-cms-mcp)
